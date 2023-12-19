@@ -1,0 +1,9 @@
+#ifndef PROJECT_CONF_H
+#define PROJECT_CONF_H
+
+#if 1
+#define LOG_CONF_LEVEL_IPV6 LOG_LEVEL_ERR
+#define LOG_CONF_LEVEL_TCPIP LOG_LEVEL_ERR
+#endif
+
+#endif /* PROJECT_CONF_H */
